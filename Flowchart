@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-07-03T11:01:35.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="aWaAXDuaDH5fiUw4JWmZ" version="24.6.4" type="github">
+  <diagram name="Page-1" id="SZvauDomw3pjkBjhXnOG">
+    <mxGraphModel dx="1450" dy="4191" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#131311" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KYfJQkNLqYHOC3bFP8tM-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;fillStyle=solid;gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="236.5" y="-2822" width="149" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KYfJQkNLqYHOC3bFP8tM-4" value="Calculate s= (a+b+c) /2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="209" y="-2533" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYfJQkNLqYHOC3bFP8tM-5" value="Calculate&amp;nbsp;&lt;div&gt;area =sqrt(s*(s-a)*(s-b)*(s-c))&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="202" y="-2413" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYfJQkNLqYHOC3bFP8tM-7" value="Input a,b,c" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=3;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="233.5" y="-2660" width="152" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYfJQkNLqYHOC3bFP8tM-8" value="Print area" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=3;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="206" y="-2299" width="178" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KYfJQkNLqYHOC3bFP8tM-10" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="201" y="-2189" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QefklieGeTuU70bZd2TD-1" value="&lt;ol style=&quot;margin: 0px; padding: 0px; list-style-type: none; counter-reset: lst-ctn-kix_xpd2l0srim0f-0 0; font-family: Roboto, arial, sans, sans-serif; font-size: medium; text-align: start;&quot; start=&quot;1&quot; class=&quot;c1 lst-kix_xpd2l0srim0f-0 start&quot;&gt;&lt;li style=&quot;font-size: 11pt; font-family: Arial; margin-left: 36pt; padding-top: 12pt; padding-left: 0pt; padding-bottom: 12pt; line-height: 1.15; text-align: left; counter-increment: lst-ctn-kix_xpd2l0srim0f-0 1;&quot; class=&quot;c6 li-bullet-0&quot;&gt;&lt;span style=&quot;vertical-align: baseline; font-size: 11pt;&quot; class=&quot;c5&quot;&gt;&lt;b style=&quot;&quot;&gt;1: Name the programming languages that are used to develop backend applications.&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; margin-left: 36pt; padding-top: 12pt; padding-left: 0pt; padding-bottom: 12pt; line-height: 1.15; text-align: left; counter-increment: lst-ctn-kix_xpd2l0srim0f-0 1;&quot; class=&quot;c6 li-bullet-0&quot;&gt;&lt;span style=&quot;vertical-align: baseline; font-size: 11pt;&quot; class=&quot;c5&quot;&gt;There are several programming languages we use in backend applications which are; JavaScript, Python, Java, PHP, Ruby, Go, and C#&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-11" y="-3370" width="644" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="QefklieGeTuU70bZd2TD-2" value="&lt;ol style=&quot;margin: 0px; padding: 0px; list-style-type: none; counter-reset: lst-ctn-kix_xpd2l0srim0f-0 0; font-family: Roboto, arial, sans, sans-serif; font-size: medium; text-align: start;&quot; start=&quot;1&quot; class=&quot;c1 lst-kix_xpd2l0srim0f-0 start&quot;&gt;&lt;li style=&quot;font-size: 11pt; font-family: Arial; margin-left: 36pt; padding-top: 12pt; padding-left: 0pt; padding-bottom: 12pt; line-height: 1.15; text-align: left; counter-increment: lst-ctn-kix_xpd2l0srim0f-0 1;&quot; class=&quot;c6 li-bullet-0&quot;&gt;&lt;span style=&quot;vertical-align: baseline; font-size: 11pt;&quot; class=&quot;c5&quot;&gt;&lt;b style=&quot;&quot;&gt;2: Name and mention various technologies that need to be studied to become a backend engineer?&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; margin-left: 36pt; padding-top: 12pt; padding-left: 0pt; padding-bottom: 12pt; line-height: 1.15; text-align: left; counter-increment: lst-ctn-kix_xpd2l0srim0f-0 1;&quot; class=&quot;c6 li-bullet-0&quot;&gt;&lt;span style=&quot;vertical-align: baseline; font-size: 11pt;&quot; class=&quot;c5&quot;&gt;We need to know several technologies which are; 1: Programming languages (Java, Python, Javascript, Ruby, C#, and Golang. 2: Databases: SQL and NoSQL.&amp;nbsp; 3: WebFramework. 4: Application Programming Interface. 5: Version Control System. 6: Web Servers.&amp;nbsp; 7: Authentication and Authorization 8: Testing. 9: DevOps Tools: 10:Security (Cloud services).&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="-11" y="-3182" width="644" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="QefklieGeTuU70bZd2TD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.367;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KYfJQkNLqYHOC3bFP8tM-7" target="KYfJQkNLqYHOC3bFP8tM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QefklieGeTuU70bZd2TD-5" value="&lt;ol style=&quot;margin: 0px; padding: 0px; list-style-type: none; counter-reset: lst-ctn-kix_xpd2l0srim0f-0 0; font-family: Roboto, arial, sans, sans-serif; font-size: medium; text-align: start;&quot; start=&quot;1&quot; class=&quot;c1 lst-kix_xpd2l0srim0f-0 start&quot;&gt;&lt;li style=&quot;font-size: 11pt; font-family: Arial; margin-left: 36pt; padding-top: 12pt; padding-left: 0pt; padding-bottom: 12pt; line-height: 1.15; text-align: left; counter-increment: lst-ctn-kix_xpd2l0srim0f-0 1;&quot; class=&quot;c6 li-bullet-0&quot;&gt;&lt;span style=&quot;vertical-align: baseline; font-size: 11pt;&quot; class=&quot;c5&quot;&gt;&lt;b style=&quot;&quot;&gt;Make a flowchart to calculate the area of a trapezoid&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="112" y="-2988" width="442" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
